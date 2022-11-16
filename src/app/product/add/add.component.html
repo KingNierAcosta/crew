@@ -1,0 +1,31 @@
+<div class="modal-header">
+  <h3 class="modal-title">{{!product || !product.id ? 'Agregar' : 'Editar'}} producto</h3>
+</div>
+<div class="modal-body">
+  <form (submit)="handleSubmit()" [formGroup]="form" class="form form-label-right" errorTailor>
+    <div class="form-group row">
+      <div class="mb-3">
+        <label for="name" class="form-label">Nombre</label>
+        <input type="text" class="form-control" id="name" formControlName="name">
+      </div>
+      <div class="mb-3">
+        <label for="price" class="form-label">Precio</label>
+        <input type="number" class="form-control" id="price" formControlName="price">
+      </div>
+      <div class="mb-3">
+        <label for="serial_number" class="form-label">Número de serie</label>
+        <input type="text" class="form-control" id="serial_number" formControlName="serial_number">
+      </div>
+    </div>
+    <div class="modal-footer">
+      <button [disabled]="isLoading"
+              [ngClass]="{'spinner spinner-white spinner-right disabled': isLoading }" class="btn btn-outline-primary"
+              type="submit">
+        {{isLoading ? 'Guardando...' : 'Guardar'}}
+      </button>
+      <button (click)="this.modal.dismiss()" class="btn btn-outline-secondary" type="button">
+        Cancelar
+      </button>
+    </div>
+  </form>
+</div>
