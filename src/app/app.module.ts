@@ -13,6 +13,7 @@ import {getFirestore, provideFirestore} from '@angular/fire/firestore';
 import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {ErrorTailorModule} from '@ngneat/error-tailor';
 import {ValidationMessages} from './Core/const/validationMessages';
+import {appReducer} from './Core/Store/app/app.reducer';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,7 @@ import {ValidationMessages} from './Core/const/validationMessages';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    StoreModule.forRoot({}, {}),
+    StoreModule.forRoot({AppStage: appReducer}, {}),
     BrowserAnimationsModule,
     EffectsModule.forRoot([]),
     StoreDevtoolsModule.instrument({maxAge: 25, logOnly: environment.production}),
