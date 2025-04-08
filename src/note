@@ -1,0 +1,44 @@
+Autoevaluación de Desempeño
+
+Desde mi incorporación hace siete meses al equipo de ingenieros de soporte a la línea de producción, he trabajado con dedicación para aportar soluciones técnicas que optimicen los procesos, mejorar la productividad del equipo y facilitar la implementación de nuevas tecnologías.
+
+Uno de los logros más significativos ha sido el desarrollo de un script para automatizar el proceso de instalación del sistema operativo en laptops con Windows. Anteriormente, este procedimiento requería aproximadamente 2 minutos por unidad para que el técnico escaneara el número de serie, descargara el archivo de configuración correspondiente y lo subiera al servidor. Además del tiempo invertido, este proceso manual estaba expuesto a errores humanos.
+Con la automatización implementada, este paso se realiza ahora de manera automática y eficiente, permitiendo a los técnicos enfocarse en tareas más productivas. Esta mejora ha tenido un impacto directo en la productividad: mientras antes la meta diaria por técnico era de 60 unidades, ahora se pueden completar entre 80 y 90 unidades por día, dependiendo de la complejidad de los equipos, lo que representa un aumento considerable en la eficiencia.
+
+Gracias a mis conocimientos en programación y Linux, he podido adaptarme rápidamente a nuevos procesos como CPTI y CDT, necesarios para las unidades Chrome OS. He logrado dominar estas herramientas en poco tiempo, y he entrenado a más de 10 técnicos que actualmente ya están produciendo de manera efectiva en estas áreas.
+
+Además, he brindado soporte clave en la implementación de nuevos programas de testeo, como fue el caso de una unidad con una nueva versión de software para probar tarjetas VGA de la serie 5000. Gracias a mi experiencia con comandos de Linux, pude preparar las estaciones necesarias para realizar las pruebas de forma rápida y precisa.
+
+Mi enfoque ha sido siempre buscar la mejora continua y la eficiencia en los procesos, y planeo seguir desarrollando scripts que automaticen otras tareas repetitivas en la línea. Estoy motivado a seguir creciendo dentro de la empresa, asumiendo más responsabilidades técnicas y de liderazgo, y continuar aportando con soluciones innovadoras que eleven la productividad del equipo.
+
+
+Self-Evaluation
+
+As part of the engineering support team for the laptop production line, I’ve consistently focused on improving efficiency, reducing manual workload, and supporting both Windows and Linux-based systems with technical precision.
+
+One of my most impactful contributions has been developing a script that fully automates the Windows OS installation process. Previously, each technician spent around two minutes per unit manually scanning the serial number, downloading the configuration file, and uploading it to the server—steps that were not only time-consuming but prone to human error. With the new automated script, this process is now seamless and error-free. Technicians only need to select the OS version, allowing for a significant boost in productivity. Where the daily target used to be 60 units per technician, it’s now possible to complete 80 to 90 units per day depending on complexity.
+
+My experience with Linux has also played a key role in supporting Chrome OS testing processes (CPTI and CDT), which I learned quickly and effectively. I've trained over 10 technicians on these processes, enabling them to contribute actively to production.
+
+Additionally, I supported the setup of a new software version to test VGA cards from the 5000 series. Thanks to my command-line proficiency in Linux, I was able to quickly configure the necessary stations, allowing the line to proceed with testing without delays.
+
+Looking ahead, I plan to continue creating scripts to automate repetitive tasks and support the team with scalable and efficient tools. My goal is to keep contributing to process improvements, technical training, and the overall success of the production line.
+
+Versión corta en español:
+Autoevaluación de Desempeño
+
+He desarrollado un script que automatiza el proceso de instalación del sistema operativo en laptops con Windows, eliminando pasos manuales que tomaban unos 2 minutos por unidad y eran propensos a errores. Ahora los técnicos solo seleccionan la versión del sistema, aumentando la producción de 60 a entre 80 y 90 unidades diarias.
+
+También he dado soporte técnico en procesos como CPTI y CDT para unidades Chrome OS, y he entrenado a más de 10 técnicos que ya están produciendo. Gracias a mis conocimientos en Linux, pude implementar estaciones de testeo para tarjetas VGA serie 5000 de forma rápida y efectiva.
+
+Mi objetivo es seguir automatizando tareas repetitivas, aportar mejoras continuas y asumir mayores responsabilidades técnicas dentro del equipo.
+
+
+Short Version in English:
+Self-Evaluation
+
+I developed a script that automates the Windows OS installation process, removing manual steps that took around 2 minutes per unit and were prone to errors. Now, technicians only need to select the OS version, increasing output from 60 to 80–90 units per day.
+
+I’ve also supported CPTI and CDT processes for Chrome OS units and trained over 10 technicians who are now fully productive. With my Linux skills, I quickly set up testing stations for VGA 5000 series cards, ensuring efficient implementation.
+
+My goal is to continue automating repetitive tasks, driving continuous improvements, and taking on greater technical responsibilities within the team.
